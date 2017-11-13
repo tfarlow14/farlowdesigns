@@ -1,0 +1,17 @@
+.top-bar {
+	background-color: $dark-gray;
+	.logo {
+		height: 3rem;
+		margin: 0 3vw;
+		vertical-align: middle;
+	}
+}
+
+.mobile-nav-btn {
+	margin: 1vh 3vw 0 0;
+	height: 15vw;
+	button {
+		height: 7vw;
+		width: 7vw;
+	}
+}
